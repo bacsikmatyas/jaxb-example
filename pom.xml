@@ -17,6 +17,11 @@
 			<organization>Faculty of Informatics, University of Debrecen</organization>
 			<organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
 		</developer>
+		<developer>
+			<id>bacsikmatyas</id>
+			<name>Bacsik Mátyás</name>
+			<email>bacsik.matyas@gmail.com</email>
+		</developer>
 	</developers>
 	<dependencies>
 		<dependency>
